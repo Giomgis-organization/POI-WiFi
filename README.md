@@ -41,6 +41,11 @@
      <p>Project manager:Leonardo Papa,Matteo Barca<br>
      Team di progetto:Leonardo Papa,Matteo Barca
      </p>
+     <h2>Rbs,tempistiche del diagramma di Gantt,stima dei costi</h2>
+     <p>Acquisizione delle immagini e dei video= tre dipendenti si impegneranno nel recapitare immagini e video;saranno pagati 10 euro l'ora e tale attivita dovrà esere fatta in massimo 4 ore<br>
+  Acquisizione ambiente di sviluppo=tale attività servirà per consentire ai dipendenti di avere un ambiewnte di sviluppo su cui lavorare, avrà un costo fisso variabile a seconda dell'ambiente di sviluppo<br>
+  Progettazione= cinque dipendenti si impegmeranno nel pianificare come il sito dovrà essere svolto e come sarà realizzato;saranno pagati 13 euro l'ora e dovrà durare massimo 2 giorni lavorativi<br>
+  Realizzazione pagina web=
      
    </body>
 
