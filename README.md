@@ -1,7 +1,7 @@
 <!DOCKTYPE html>
 <head>
   </head>
-<h1>Point Of Interest</h1>
+<h1>Point Of Interest-WIFI</h1>
 <h2>Project Charter</h2>
   
   
