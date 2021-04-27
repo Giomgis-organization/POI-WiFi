@@ -32,9 +32,9 @@
     </table>
    
    <h2>Risorse e Costi limiti</h2>
-    <p>La versione del progetto ha il costo di circa 2 euro<br>
+    <p>La versione del progetto ha il costo di circa 10 euro<br>
      Le risorse necessarie sono:<br>
-       programmatori/dipendenti dal costo si 1 euro a testa<br>
+       programmatori/dipendenti<br>
      </p>
      
  <h2>Struttura Organizzativa</h2>
